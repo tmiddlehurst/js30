@@ -1,5 +1,5 @@
 * {
-  border: 1px solid yellow;
+  border: 1px solid red;
   box-sizing: border-box;
 }
 
@@ -13,7 +13,6 @@ body {
 .drumkit {
   background: #FFF;
   width: 70%;
-  height: 15%;
   margin: 0 auto;
   margin-top: 25%;
   // padding 15px;
@@ -24,8 +23,8 @@ body {
 }
 
 .drum {
-  width: 10%;
-  height: 100%;
+  width: 75px;
+  height: 75px;
 
   text-align: center;
   background: aquamarine;
