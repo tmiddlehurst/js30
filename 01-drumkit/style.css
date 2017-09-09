@@ -1,0 +1,39 @@
+* {
+  border: 1px solid yellow;
+  box-sizing: border-box;
+}
+
+body {
+  background: #111;
+}
+
+.container {
+}
+
+.drumkit {
+  background: #FFF;
+  width: 70%;
+  height: 15%;
+  margin: 0 auto;
+  margin-top: 25%;
+  // padding 15px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.drum {
+  width: 10%;
+  height: 100%;
+
+  text-align: center;
+  background: aquamarine;
+  border: 2px solid green;
+}
+.test {
+  border: 2px solid aquamarine;
+  background: green;
+  height: 50px;
+  width: 50px;
+}
